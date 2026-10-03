@@ -1,0 +1,518 @@
+{
+  "Tajweed": {
+    "label_ar": "متون التّجويد",
+    "items": [
+      {
+        "id": "tohfa",
+        "label": "تحفة الأطفال",
+        "segments_count": 61,
+        "file": "Tajweed_tohfa.json"
+      },
+      {
+        "id": "jasaryia",
+        "label": "متن الجزرية",
+        "segments_count": 109,
+        "file": "Tajweed_jasaryia.json"
+      },
+      {
+        "id": "alsakhawi",
+        "label": "نونية السخاوي",
+        "segments_count": 64,
+        "file": "Tajweed_alsakhawi.json"
+      },
+      {
+        "id": "salsabeel",
+        "label": "السلسبيل الشافي",
+        "segments_count": 300,
+        "file": "Tajweed_salsabeel.json"
+      },
+      {
+        "id": "la2ebayan",
+        "label": "لآلئ البيان في تجويد القرءان",
+        "segments_count": 201,
+        "file": "Tajweed_la2ebayan.json"
+      },
+      {
+        "id": "samnodiya",
+        "label": "التحفة السمنودية",
+        "segments_count": 270,
+        "file": "Tajweed_samnodiya.json"
+      },
+      {
+        "id": "khaqani",
+        "label": "منظومة الخاقانية",
+        "segments_count": 51,
+        "file": "Tajweed_khaqani.json"
+      },
+      {
+        "id": "mofedtajweed",
+        "label": "منظومة المفيد في علم التجويد",
+        "segments_count": 193,
+        "file": "Tajweed_mofedtajweed.json"
+      },
+      {
+        "id": "qawolmalofhrof",
+        "label": "متن القول المألوف في صفات الحروف",
+        "segments_count": 35,
+        "file": "Tajweed_qawolmalofhrof.json"
+      },
+      {
+        "id": "nabhan",
+        "label": "هداية الصبيان في تجويد القرآن",
+        "segments_count": 40,
+        "file": "Tajweed_nabhan.json"
+      }
+    ]
+  },
+  "Quran": {
+    "label_ar": "متون القراءات",
+    "items": [
+      {
+        "id": "shatebia",
+        "label": "متن الشاطبيّة",
+        "segments_count": 1173,
+        "file": "Quran_shatebia.json"
+      },
+      {
+        "id": "doraa",
+        "label": "الدّرة المضيئة",
+        "segments_count": 241,
+        "file": "Quran_doraa.json"
+      },
+      {
+        "id": "minhamitwaly",
+        "label": "مِنْحَةُ مُولِي الْبِر",
+        "segments_count": 144,
+        "file": "Quran_minhamitwaly.json"
+      },
+      {
+        "id": "tayba",
+        "label": "طيبة النّشر",
+        "segments_count": 1014,
+        "file": "Quran_tayba.json"
+      },
+      {
+        "id": "fatehkareem",
+        "label": "تنقيح فتح الكريم",
+        "segments_count": 460,
+        "file": "Quran_fatehkareem.json"
+      },
+      {
+        "id": "bahjatalarwah",
+        "label": "بهجة الأرواح في أحكام رواية حفص من طريق المصباح",
+        "segments_count": 9,
+        "file": "Quran_bahjatalarwah.json"
+      },
+      {
+        "id": "tohfanadeya",
+        "label": "التحفة الندية فيما زاد لقالون في طيبة النشر على الشاطبية",
+        "segments_count": 22,
+        "file": "Quran_tohfanadeya.json"
+      },
+      {
+        "id": "dorarlawame3",
+        "label": "الدرر اللوامع في أصل مقرأ الإمام نافع",
+        "segments_count": 242,
+        "file": "Quran_dorarlawame3.json"
+      },
+      {
+        "id": "bahjatallohath",
+        "label": "بهجة اللحاظ بما لحفص من رَوْضَة الحفاظ",
+        "segments_count": 22,
+        "file": "Quran_bahjatallohath.json"
+      },
+      {
+        "id": "resaltqasermonfasel",
+        "label": "متن رسالة قصر المنفصل لحفص من طريق الطيبة",
+        "segments_count": 15,
+        "file": "Quran_resaltqasermonfasel.json"
+      },
+      {
+        "id": "qeraetmonfaselmaatawasot",
+        "label": "منظومة القراءة بقصر المنفصل مع توسيط المتصل من طريق روضة الحفاظ لابن المعدل",
+        "segments_count": 15,
+        "file": "Quran_qeraetmonfaselmaatawasot.json"
+      },
+      {
+        "id": "qasermonfaselmisbah",
+        "label": "منظومة قصر المنفصل من طريق المصباح",
+        "segments_count": 11,
+        "file": "Quran_qasermonfaselmisbah.json"
+      },
+      {
+        "id": "feelnasher",
+        "label": "منظومة الفيل في رواية حفص من كتاب المصباح من طريق طيبة النشر",
+        "segments_count": 22,
+        "file": "Quran_feelnasher.json"
+      },
+      {
+        "id": "monabeha",
+        "label": "الأرجوزة المنبهة",
+        "segments_count": 1311,
+        "file": "Quran_monabeha.json"
+      },
+      {
+        "id": "arb3ashwath",
+        "label": "الفوائد المعتبرة في القراءات الأربع بعد العشرة",
+        "segments_count": 572,
+        "file": "Quran_arb3ashwath.json"
+      },
+      {
+        "id": "tahrerat",
+        "label": "إتحاف البرية بتحريرات الشاطبية",
+        "segments_count": 132,
+        "file": "Quran_tahrerat.json"
+      }
+    ]
+  },
+  "RasimAndSetting": {
+    "label_ar": "متون الرّسم والضّبط",
+    "items": [
+      {
+        "id": "aqylaa",
+        "label": "عقيلة أتراب القصائد",
+        "segments_count": 298,
+        "file": "RasimAndSetting_aqylaa.json"
+      },
+      {
+        "id": "mowridalthaman",
+        "label": "مورد الظّمآن في رسم أحرف القرءان",
+        "segments_count": 608,
+        "file": "RasimAndSetting_mowridalthaman.json"
+      }
+    ]
+  },
+  "adAy": {
+    "label_ar": "متون عدّ الآي",
+    "items": [
+      {
+        "id": "nathmitzohr",
+        "label": "ناظمة الزُّهْر",
+        "segments_count": 295,
+        "file": "adAy_nathmitzohr.json"
+      },
+      {
+        "id": "fraedhesan",
+        "label": "الفرائد الحسان في عدِّ آي القرءان",
+        "segments_count": 130,
+        "file": "adAy_fraedhesan.json"
+      }
+    ]
+  },
+  "Tafseer": {
+    "label_ar": "متون التّفسير",
+    "items": [
+      {
+        "id": "gharebalquran",
+        "label": "ألفية غريب القرءان",
+        "segments_count": 1045,
+        "file": "Tafseer_gharebalquran.json"
+      },
+      {
+        "id": "zamzami",
+        "label": "متن الزمزمية",
+        "segments_count": 158,
+        "file": "Tafseer_zamzami.json"
+      },
+      {
+        "id": "motamimzamzami",
+        "label": "متمّمة الزّمزميّة",
+        "segments_count": 57,
+        "file": "Tafseer_motamimzamzami.json"
+      }
+    ]
+  },
+  "ArabicLang": {
+    "label_ar": "متون اللّغة العربية",
+    "items": [
+      {
+        "id": "ibnmalik",
+        "label": "ألفية ابن مالك",
+        "segments_count": 1002,
+        "file": "ArabicLang_ibnmalik.json"
+      },
+      {
+        "id": "maqsoodsarf",
+        "label": "المقصود في علم الصرف",
+        "segments_count": 113,
+        "file": "ArabicLang_maqsoodsarf.json"
+      },
+      {
+        "id": "ajromia",
+        "label": "المقدمة الآجرُّوميَّة",
+        "segments_count": 154,
+        "file": "ArabicLang_ajromia.json"
+      }
+    ]
+  },
+  "Sera": {
+    "label_ar": "متون في السّيرة النّبوية",
+    "items": [
+      {
+        "id": "thatshefa",
+        "label": "ذات الشفا في سيرة النبي والخلفا",
+        "segments_count": 517,
+        "file": "Sera_thatshefa.json"
+      },
+      {
+        "id": "orjoza",
+        "label": "الأرجوزة الميئية ذكر حال أشرف البرية",
+        "segments_count": 100,
+        "file": "Sera_orjoza.json"
+      }
+    ]
+  },
+  "Motashabeh": {
+    "label_ar": "متون المتشابه",
+    "items": [
+      {
+        "id": "hidayatmortab",
+        "label": "هداية المرتاب وغاية الحفاظ والطلاب",
+        "segments_count": 431,
+        "file": "Motashabeh_hidayatmortab.json"
+      }
+    ]
+  },
+  "Hadeth": {
+    "label_ar": "متون علم الحديث",
+    "items": [
+      {
+        "id": "soyoty",
+        "label": "ألفية السّيوطي",
+        "segments_count": 994,
+        "file": "Hadeth_soyoty.json"
+      },
+      {
+        "id": "erakihadeeth",
+        "label": "ألفية الحافظ العراقي في علوم الحديث",
+        "segments_count": 1002,
+        "file": "Hadeth_erakihadeeth.json"
+      },
+      {
+        "id": "hedayarewaya",
+        "label": "الهداية في علم الرواية",
+        "segments_count": 373,
+        "file": "Hadeth_hedayarewaya.json"
+      },
+      {
+        "id": "bayqonia",
+        "label": "منظومة البيقونية في مصطلح الحديث",
+        "segments_count": 34,
+        "file": "Hadeth_bayqonia.json"
+      }
+    ]
+  },
+  "Aqeda": {
+    "label_ar": "متون العقيدة",
+    "items": [
+      {
+        "id": "solamwosol",
+        "label": "منظومة سلّم الوصول",
+        "segments_count": 290,
+        "file": "Aqeda_solamwosol.json"
+      },
+      {
+        "id": "noniya1",
+        "label": "نونية ابن القيم (1)",
+        "segments_count": 1008,
+        "file": "Aqeda_noniya1.json"
+      },
+      {
+        "id": "noniya2",
+        "label": "نونية ابن القيم (2)",
+        "segments_count": 1124,
+        "file": "Aqeda_noniya2.json"
+      },
+      {
+        "id": "noniya3",
+        "label": "نونية ابن القيم (3)",
+        "segments_count": 802,
+        "file": "Aqeda_noniya3.json"
+      },
+      {
+        "id": "noniya4",
+        "label": "نونية ابن القيم (4)",
+        "segments_count": 1099,
+        "file": "Aqeda_noniya4.json"
+      },
+      {
+        "id": "noniya5",
+        "label": "نونية ابن القيم (5)",
+        "segments_count": 850,
+        "file": "Aqeda_noniya5.json"
+      },
+      {
+        "id": "noniya6",
+        "label": "نونية ابن القيم (6)",
+        "segments_count": 906,
+        "file": "Aqeda_noniya6.json"
+      },
+      {
+        "id": "safaira",
+        "label": "العقيدة السفارينية",
+        "segments_count": 210,
+        "file": "Aqeda_safaira.json"
+      },
+      {
+        "id": "altahaweya",
+        "label": "العقيدة الطحاوية",
+        "segments_count": 83,
+        "file": "Aqeda_altahaweya.json"
+      },
+      {
+        "id": "lamia",
+        "label": "لامية شيخ الإسلام ابن تيمية",
+        "segments_count": 16,
+        "file": "Aqeda_lamia.json"
+      },
+      {
+        "id": "7aeyya",
+        "label": "حائية ابن أبي داود في السنة",
+        "segments_count": 36,
+        "file": "Aqeda_7aeyya.json"
+      },
+      {
+        "id": "jomlatulaqaed",
+        "label": "مَنظُومَةُ جُمْلَةُ العَقَائِدِ عَلَى طَريقِ السَّلفِ الأمَاجِدِ",
+        "segments_count": 114,
+        "file": "Aqeda_jomlatulaqaed.json"
+      },
+      {
+        "id": "alkawazane",
+        "label": "دَالِيَّـةُ الكَلْوَذَانِيِّ في العَـقيدَةِ",
+        "segments_count": 52,
+        "file": "Aqeda_alkawazane.json"
+      },
+      {
+        "id": "kalaed",
+        "label": "قلائد العقيان بنظم مسائل الإيمان",
+        "segments_count": 116,
+        "file": "Aqeda_kalaed.json"
+      },
+      {
+        "id": "omulmomenen",
+        "label": "قصيدة ابن بهيج فى الدفاع عن أم المؤمنين عائشة رضى الله عنها",
+        "segments_count": 56,
+        "file": "Aqeda_omulmomenen.json"
+      },
+      {
+        "id": "ebnalqayem",
+        "label": "قصيدة ابن القيم فى الرد على النصارى",
+        "segments_count": 26,
+        "file": "Aqeda_ebnalqayem.json"
+      },
+      {
+        "id": "almansora",
+        "label": "القصيدة الميمونة المنصورة فى الرد على المخذولة الملعونة",
+        "segments_count": 137,
+        "file": "Aqeda_almansora.json"
+      },
+      {
+        "id": "lamiatebnalqayem",
+        "label": "لامية ابن القيم في ذم السماع الصوفي وأهله",
+        "segments_count": 130,
+        "file": "Aqeda_lamiatebnalqayem.json"
+      },
+      {
+        "id": "alhoda",
+        "label": "منظومة رسالة الهدى في اتباع النبي المقتدى",
+        "segments_count": 172,
+        "file": "Aqeda_alhoda.json"
+      }
+    ]
+  },
+  "Fiqh": {
+    "label_ar": "متون الفقه",
+    "items": [
+      {
+        "id": "rahbya",
+        "label": "الرحبية في الفرائض",
+        "segments_count": 176,
+        "file": "Fiqh_rahbya.json"
+      },
+      {
+        "id": "tasheeltorokat",
+        "label": "تسهيل الطرقات في نظم الورقات",
+        "segments_count": 211,
+        "file": "Fiqh_tasheeltorokat.json"
+      },
+      {
+        "id": "nathimjali",
+        "label": "النظم الجَلِي في الفِقْهِ الحَنْبَلِي",
+        "segments_count": 970,
+        "file": "Fiqh_nathimjali.json"
+      },
+      {
+        "id": "sood",
+        "label": "مراقي السعود",
+        "segments_count": 1001,
+        "file": "Fiqh_sood.json"
+      },
+      {
+        "id": "mahyaa",
+        "label": "مَهيَعُ الوُصُولِ إلى عِلمِ الأصُولِ",
+        "segments_count": 996,
+        "file": "Fiqh_mahyaa.json"
+      },
+      {
+        "id": "almorshedalmoeen",
+        "label": "المرشد المعين على الضروري من علوم الدين",
+        "segments_count": 317,
+        "file": "Fiqh_almorshedalmoeen.json"
+      },
+      {
+        "id": "nehaya",
+        "label": "نهاية التدريب في نظم غاية التقريب",
+        "segments_count": 1220,
+        "file": "Fiqh_nehaya.json"
+      },
+      {
+        "id": "zobad",
+        "label": "متن الزبد في علم الفقه على مذهب الإمام الشافعي",
+        "segments_count": 1109,
+        "file": "Fiqh_zobad.json"
+      },
+      {
+        "id": "monakhalah",
+        "label": "المنخلة النونية في فقه الكتاب والسنة النبوية",
+        "segments_count": 509,
+        "file": "Fiqh_monakhalah.json"
+      },
+      {
+        "id": "mofradatahmad",
+        "label": "منظومة مفردات أحمد",
+        "segments_count": 950,
+        "file": "Fiqh_mofradatahmad.json"
+      },
+      {
+        "id": "bloghmoram",
+        "label": "منظومة بلوغ المرام من أدلة الأَحكام",
+        "segments_count": 215,
+        "file": "Fiqh_bloghmoram.json"
+      }
+    ]
+  },
+  "Adab": {
+    "label_ar": "القصائد الزهدية في (الرقائق)",
+    "items": [
+      {
+        "id": "alberi",
+        "label": "منظومة الألبيري",
+        "segments_count": 115,
+        "file": "Adab_alberi.json"
+      },
+      {
+        "id": "lamiaibnwardi",
+        "label": "لامية ابن الوردي",
+        "segments_count": 77,
+        "file": "Adab_lamiaibnwardi.json"
+      },
+      {
+        "id": "dadia",
+        "label": "ضادية ابن زيدون",
+        "segments_count": 46,
+        "file": "Adab_dadia.json"
+      }
+    ]
+  }
+}
